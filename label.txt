@@ -1,0 +1,4 @@
+[bug]       Oops! Something went wrong            #d73a4a
+[feature]   Epic feature consisting of stories    #ABD63C
+[research]  More insights are needed              #d876e3
+[story]     Good old story                        #a2eeef
