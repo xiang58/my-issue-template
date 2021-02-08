@@ -1,2 +1,3 @@
-# Daniel's Issue Template
-v0.0.3
+# Daniel's Template
+v0.0.4
+* Templates for various stuff
